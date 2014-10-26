@@ -27,4 +27,8 @@ public class B implements J {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
