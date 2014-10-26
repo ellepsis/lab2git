@@ -23,4 +23,8 @@ public class B implements J {
     public long dd() {
         return 99999;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }
