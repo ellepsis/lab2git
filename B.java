@@ -31,4 +31,8 @@ public class B implements J {
     public float ff() {
         return 3.14;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
