@@ -23,4 +23,17 @@ public class B implements J {
     public long dd() {
         return 99999;
     }
+
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public Object rr() {
+        return null;
+    }
 }
