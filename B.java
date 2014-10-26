@@ -35,6 +35,7 @@ public class B implements J {
     public Object rr() {
         return null;
     }
+<<<<<<< HEAD
 
     public int cc() {
         return 39;
